@@ -1,4 +1,4 @@
-# electron-redux
+# electron-ipc-redux
 
 [![CircleCI](https://circleci.com/gh/hardchor/electron-redux/tree/master.svg?style=svg)](https://circleci.com/gh/hardchor/electron-redux/tree/master)
 [![Greenkeeper badge](https://badges.greenkeeper.io/hardchor/electron-redux.svg)](https://greenkeeper.io/)
