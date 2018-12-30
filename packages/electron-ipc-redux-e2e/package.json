@@ -1,6 +1,6 @@
 {
   "name": "electron-ipc-redux-e2e",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "description": "The end-to-end tests for electron-redux",
   "main": "app/main.js",
   "repository": "https://github.com/hardchor/electron-redux/tree/master/packages/electron-redux-e2e",
@@ -9,7 +9,7 @@
   "private": true,
   "dependencies": {
     "electron": "^1.7.9",
-    "electron-ipc-redux": "^1.3.3",
+    "electron-ipc-redux": "^1.3.4",
     "redux": "^4.0.0"
   },
   "scripts": {
