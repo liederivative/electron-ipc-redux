@@ -4,7 +4,7 @@ const {
   replayActionRenderer,
   getInitialStateRenderer,
   createAliasedAction,
-} = require('electron-redux');
+} = require('electron-ipc-redux');
 const reducers = require('./reducers');
 
 const initialState = getInitialStateRenderer();
