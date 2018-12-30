@@ -7,7 +7,7 @@ const {
   triggerAlias,
   replayActionMain,
   createAliasedAction,
-} = require('electron-redux');
+} = require('electron-ipc-redux');
 const reducers = require('./reducers');
 
 const store = createStore(reducers, 0, applyMiddleware(triggerAlias, forwardToRenderer));
